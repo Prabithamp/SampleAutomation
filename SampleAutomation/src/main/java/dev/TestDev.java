@@ -4,6 +4,6 @@ package dev;
 public class TestDev {
 
 public void devTest() {
-		System.out.println("I am in Dev test");
+		System.out.println("Hi I am in Dev test");
 	}
 }
